@@ -1,0 +1,277 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+
+}
+
+body {
+
+    font-family: 'Mulish', sans-serif;
+}
+
+.container {
+    width: 80%;
+    max-width: 1165px;
+    padding: 0 93px;
+}
+
+.navibar {
+    padding: 20px 0 0;
+}
+
+
+
+
+
+.navbar.a1 {
+    font-size: 30px;
+    color: #0F949C;
+    margin-right: 100px;
+}
+
+.nanvbarloq1 {
+    margin-right: -17px;
+}
+
+
+
+.navbar.a2 {
+    color: black;
+    font-size: 22px;
+    margin-right: 120px;
+}
+
+.navbar.a3 {
+    color: #0F949C;
+    font-size: 16px;
+    margin-right: 110px;
+}
+
+.navbar.a4 {
+    color: #0F949C;
+    font-size: 16px;
+    border: 1px solid #008D96;
+    padding: 13px;
+    border-radius: 20px;
+}
+
+.navbar.a5 {
+    font-size: 16px;
+    border: 1px solid #008D96;
+    background-color: #008D96;
+    color: white;
+    border-radius: 20px;
+    padding: 13px;
+    margin-left: 5px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 15px;
+}
+
+.backgroundimg {
+    background-image: url("./foto/page2foto2.svg");
+    width: 100%;
+    height: 150px;
+    margin-top: 30px;
+}
+
+.img {
+    background-color: #0f959c62;
+    width: 100%;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: 'Mulish', sans-serif;
+    color: white;
+}
+
+.imgp1 {
+    font-size: 30px;
+}
+
+.part2 {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 30px;
+    padding: 50px 35px 70px;
+}
+
+.about {
+    display: flex;
+    flex-direction: column;
+    width: 39rem;
+    gap: 30px;
+    font-size: 18px;
+}
+
+.kompimg {
+    width: 23rem;
+}
+
+.aboutheader {
+    font-size: 41px;
+    font-weight: 600;
+}
+
+.aboutlorem {
+    color: #939393;
+}
+
+.part3 {
+    font-family: 'Mulish', sans-serif;
+    font-weight: 600;
+    padding-left: 90px;
+    display: flex;
+    flex-direction: column;
+    align-items: inherit;
+}
+
+.baclr {
+    background-color: #e3f1f2;
+    margin-left: -12px;
+    height: 835px;
+}
+
+.p3y1 {
+    font-size: 40px;
+    font-size: 40px;
+    padding-bottom: 30px;
+    margin-top: 25px;
+}
+
+.p3y2 {
+    font-size: 20px;
+    padding-bottom: 40px;
+}
+
+.asaqidiv1 {
+    border: 1px solid;
+    border-radius: 20px;
+    background-color: white;
+    width: 257px;
+    padding: 15px;
+    height: 227px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+
+.fa-camera-retro {
+    border: 1px solid;
+    background-color: #F57170;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.divcontainerp3 {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+
+.asaqidiv2 {
+    border: 1px solid;
+    border-radius: 20px;
+    background-color: white;
+    width: 257px;
+    padding: 15px;
+    height: 227px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 40px;
+    gap: 20px;
+
+}
+
+.div22 {
+    margin-top: -24px;
+}
+
+.boyphpoto {
+    width: 365px;
+    height: 433px;
+    color: #008D96;
+}
+
+p.div1text2 {
+    font-size: 13px;
+    color: rgba(0, 0, 0, 0.377);
+}
+
+.foot {
+
+    background-color: #00848E;
+    width: 1349px;
+    height: 350px;
+    font-family: 'Mulish', sans-serif;
+    color: white;
+    font-size: 19px;
+    background-image: url("./foto/footrimg.png");
+
+
+}
+
+.text1 {
+    font-size: 30px;
+    margin-bottom: 25px;
+}
+
+.footlog2 {
+    margin-left: -16px;
+}
+
+ul {
+    padding-left: 1.5rem;
+}
+
+.fa-arrow-right {
+    border: 1px solid;
+    background-color: #F5AF15;
+    padding: 16px 23px;
+    border-radius: 35px;
+    margin-left: -69px;
+    padding-top: 11px;
+    padding-bottom: 17px;
+
+}
+
+.botm {
+    padding: 17px 35px;
+    border-radius: 40px;
+    border: white;
+}
+
+.bootomp {
+    margin-bottom: 30px;
+}
+
+.footdivs {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 50px;
+}
+
+.footdiv2 {
+    display: flex;
+    justify-content: space-around;
+
+    margin-top: 140px;
+    border-top: 1px solid;
+}
+
+.contact {
+    color: white;
+}
+
+a {
+    color: white;
+}
