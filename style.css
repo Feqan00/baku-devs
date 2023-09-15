@@ -75,6 +75,7 @@ a {
 }
 
 .navbar.a4:hover {
+    /* color: black; */
     transform: translate(5px, 5px) scale(1.1);
     box-shadow: 1px -2px 8px black;
     background-color: rgba(99, 99, 99, 0.267);
