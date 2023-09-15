@@ -3,6 +3,21 @@
     padding: 0;
 }
 
+body {
+    animation: fadeeffect 1.2s;
+    font-family: 'Mulish', sans-serif;
+}
+
+@keyframes fadeeffect {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
+
 
 a {
     text-decoration: none;
@@ -56,6 +71,19 @@ a {
     border: 1px solid #008D96;
     padding: 13px;
     border-radius: 20px;
+    transition: 700ms;
+}
+
+.navbar.a4:hover {
+    transform: translate(5px, 5px) scale(1.1);
+    box-shadow: 1px -2px 8px black;
+    background-color: rgba(99, 99, 99, 0.267);
+}
+
+.navbar.a5:hover {
+    transform: translate(10px, 10px) scale(1.5);
+    box-shadow: 1px -2px 8px black;
+    background-color: rgba(15, 66, 0, 0.411);
 }
 
 .navbar.a5 {
@@ -69,7 +97,9 @@ a {
     padding-left: 30px;
     padding-right: 30px;
     padding-top: 15px;
+    transition: 700ms;
 }
+
 
 .content1 {
     font-size: 46px;
